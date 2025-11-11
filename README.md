@@ -29,7 +29,7 @@ Segue o vídeo:
 Coloque no leetcode o código e rode ele.
 ## Capturas de tela
 
-![502. IPO](https://github.com/EDAII/Ordenacao_LeetcodeDupla32/blob/1dd2f1311507785c78153311fceab7006a1b6b61/img/maxEnvelopes.png)
-![630. Course Schedulle III](https://github.com/EDAII/Ordenacao_LeetcodeDupla32/blob/master/img/726.%20Number%20of%20Atoms.png)
-![632. Smallest Range Covering Elements from K List](https://github.com/EDAII/Ordenacao_LeetcodeDupla32/blob/master/img/1096.%20Brace%20Expansion%20II.png)
-![710. Random Pick with Blacklist](https://github.com/EDAII/Ordenacao_LeetcodeDupla32/blob/1dd2f1311507785c78153311fceab7006a1b6b61/img/getSkyline.png)
+![502. IPO](https://github.com/EDAII/Arvores_leetcode_dupla_32/blob/master/img/502.%20IPO.png)
+![630. Course Schedulle III](https://github.com/EDAII/Arvores_leetcode_dupla_32/blob/master/img/630.%20Course%20Schedulle%20III.png)
+![632. Smallest Range Covering Elements from K List](https://github.com/EDAII/Arvores_leetcode_dupla_32/blob/master/img/632.%20Smallest%20Range%20Covering%20Elements%20from%20K%20List.png)
+![710. Random Pick with Blacklist](https://github.com/EDAII/Arvores_leetcode_dupla_32/blob/master/img/710.%20Random%20Pick%20with%20Blacklist.png)
