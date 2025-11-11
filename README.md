@@ -2,6 +2,7 @@
 | Matrícula | Nome |  
 |-----------------------|---------------------|  
 | 20/2023627 | Felipe Nunes de Mello |  
+
 Obs: Víctor Moreira Almeida (22/1008481) não participou deste projeto em específico.
 
 ## Descrição do projeto
