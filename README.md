@@ -1,36 +1,33 @@
-# Repositório Template
-Repositório de Template para os projetos da disciplina 
-```
-Nome do Repositório (Apague este tópico)
-  O nome do repositório deve seguir o padrão <TemaProjeto>_<Nome Projeto>.
-  O nome do projeto deve representar o que foi implementado no mesmo (Ex:
-  Game xyz, Implementações Otimizadas de Algoritmos, Aplicativo xpto)
-
-Os temas de projeto são:  
- - Busca - Algoritmos de busca  
- - Ord_quad - Algoritmos de ordenação O(n²)  
- - Ord_nlogn - Algoritmos de ordenação O(n*log(n))  
- - Arv - Algoritmos de manipulação de Árvores  
- - Grafo - Algoritmos de manipulação de Grafos  
- 
- Ex: Busca_ConcorrenteDaGoogle
-```
 ## Alunos  
 | Matrícula | Nome |  
 |-----------------------|---------------------|  
-| xx/xxxxxxx | xxxx xxxx xxxxx |  
-| xx/xxxxxxx | xxxx xxxx xxxxx |  
+| 20/2023627 | Felipe Nunes de Mello |  
+Obs: Víctor Moreira Almeida (22/1008481) não participou deste projeto em específico.
+
 ## Descrição do projeto
-Aqui você deve dizer o objetivo deste projeto e o que realmente foi feito neste repositório.
+Resolução de exercícios do leetcode:
+
+
+[472. Concatenated Words](https://leetcode.com/problems/concatenated-words/description/?envType=problem-list-v2&envId=sorting)
+
+[502. IPO](https://leetcode.com/problems/ipo/description/?envType=problem-list-v2&envId=sorting)
+
+[630. Course Schedulle III](https://leetcode.com/problems/course-schedule-iii/description/?envType=problem-list-v2&envId=sorting)
+
+[632. Smallest Range Covering Elements from K List](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/?envType=problem-list-v2&envId=sorting)
+
+
+
+Segue o vídeo:
+
+[Vídeo explicando o funcionamento]()
+
 ## Guia de instalação
-Aqui devem estar descritas as dependências do projeto (versões de linguagens e ferramentas) e as instruções necessárias para executar o projeto. 
-### Dependências do projeto
 ### Como executar o projeto
+Coloque no leetcode o código e rode ele.
 ## Capturas de tela
-Neste tópico você deve adicionar imagens do funcionamento do projeto.  
- - As imagens devem ser salvas no repositório.
- - Imagens salvas em domínios eternos tendem a ficar indisponíveis e devem ser evitadas.   
-## Conclusões
-Aqui você diz se o algoritmo utilizado foi útil, se tem limitações, etc.
-## Referências
-Caso tenha utilizado algum agoritmo como base, citar o mesmo devidamente para  evitar quaisquer denuncias de plágio.
+
+![472. Concatenated Words](https://github.com/EDAII/Ordenacao_LeetcodeDupla32/blob/1dd2f1311507785c78153311fceab7006a1b6b61/img/getSkyline.png)
+![502. IPO](https://github.com/EDAII/Ordenacao_LeetcodeDupla32/blob/1dd2f1311507785c78153311fceab7006a1b6b61/img/maxEnvelopes.png)
+![630. Course Schedulle III](https://github.com/EDAII/Ordenacao_LeetcodeDupla32/blob/master/img/726.%20Number%20of%20Atoms.png)
+![632. Smallest Range Covering Elements from K List](https://github.com/EDAII/Ordenacao_LeetcodeDupla32/blob/master/img/1096.%20Brace%20Expansion%20II.png)
