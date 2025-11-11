@@ -22,7 +22,7 @@ Resolução de exercícios do leetcode:
 
 Segue o vídeo:
 
-[Vídeo explicando o funcionamento]()
+[Vídeo explicando o funcionamento](https://youtu.be/XzwQsGVqvec)
 
 ## Guia de instalação
 ### Como executar o projeto
